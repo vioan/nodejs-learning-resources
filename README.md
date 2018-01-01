@@ -19,7 +19,7 @@ If you have links/articles and you want to contribute you are free to do so.
 -   [Learn Node.js Completely and with Confidence](http://javascriptissexy.com/learn-node-js-completely-and-with-confidence/)
 -   [Absolute Beginners Guide To Node.js](http://blog.modulus.io/absolute-beginners-guide-to-nodejs)
 -   [Node JS Processing Model – Single Threaded Model with Event Loop Architecture](http://www.journaldev.com/7462/node-js-processing-model-single-threaded-model-with-event-loop-architecture)
--   [Node js tutorisl](https://hackr.io/tutorials/learn-node-js) - A user ranked online tutorial hub showcasing the best of Node js tutorials.
+-   [Node js tutorial](https://hackr.io/tutorials/learn-node-js) - A user ranked online tutorial hub showcasing the best of Node js tutorials.
 
 **Developer Sites**
 
